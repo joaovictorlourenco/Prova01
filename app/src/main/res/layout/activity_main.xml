@@ -134,7 +134,7 @@
         app:layout_constraintVertical_bias="0.499" />
 
     <RadioGroup
-        android:id="@+id/categoryBussiness"
+        android:id="@+id/categoryBussinessEdit"
         android:layout_width="134dp"
         android:layout_height="144dp"
         app:layout_constraintBottom_toTopOf="@+id/CnpjText"
